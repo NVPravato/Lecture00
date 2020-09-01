@@ -21,6 +21,7 @@ public class HelloWorld {
         System.out.println("What's your name?");
         String name = scan.nextLine();
         System.out.println(name);
+        System.out.println("8/31/20, I'm adding this days later to test git");
         //greet();
         /*
         for(String a : args){
